@@ -1,4 +1,4 @@
-package org.eurekaclinical.useragreementcommon.comm;
+package org.eurekaclinical.useragreement.common.props;
 
 /*-
  * #%L
@@ -20,12 +20,14 @@ package org.eurekaclinical.useragreementcommon.comm;
  * #L%
  */
 
+import org.eurekaclinical.standardapis.props.CasEurekaClinicalProperties;
+
 /**
  *
  * @author Andrew Post
  */
-public enum Status {
-    PENDING,
-    ACTIVE,
-    EXPIRED
+public abstract class UserAgreementProperties extends CasEurekaClinicalProperties {
+    public UserAgreementProperties() {
+        super("/etc/ec-user-agreement");
+    }
 }
