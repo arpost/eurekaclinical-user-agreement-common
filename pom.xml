@@ -30,7 +30,7 @@
     </issueManagement>
     
     <properties>
-        <ec-user-agreement-client-version>1.0-Alpha-6</ec-user-agreement-client-version>
+        <ec-user-agreement-client-version>1.0-Alpha-7</ec-user-agreement-client-version>
     </properties>
 	
     <build>
