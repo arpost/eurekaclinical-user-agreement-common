@@ -4,11 +4,12 @@
 ## What does it do?
 It contains classes that are shared between `eurekaclinical-user-agreement-webapp` and `eurekaclinical-user-agreement-service`.
 
-## Version 1.0 development series
+## Version 2.0 development series
 Latest release: [![Latest release](https://maven-badges.herokuapp.com/maven-central/org.eurekaclinical/eurekaclinical-user-agreement-common/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.eurekaclinical/eurekaclinical-user-agreement-common)
 
 ## Version history
-No final releases yet
+### Version 1.1
+The version 1 series provides access to all current REST APIs.
 
 ## Build requirements
 * [Oracle Java JDK 8](http://www.oracle.com/technetwork/java/javase/overview/index.html)
