@@ -1,5 +1,8 @@
 # Shared code for the Eureka! Clinical User Agreement microservice
-[Atlanta Clinical and Translational Science Institute (ACTSI)](http://www.actsi.org), [Emory University](http://www.emory.edu), Atlanta, GA
+[Andrew Post](http://www.andrewrpost.com), Salt Lake City, UT
+
+Derived from software previously developed by me and my team at the [Georgia Clinical and Translational Science Alliance (Georgia CTSA)](http://www.georgiactsa.org), [Emory University](http://www.emory.edu), Atlanta, GA
+
 
 ## What does it do?
 It contains classes that are shared between `eurekaclinical-user-agreement-webapp` and `eurekaclinical-user-agreement-service`.

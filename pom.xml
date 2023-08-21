@@ -12,25 +12,25 @@
     <parent>
         <groupId>org.eurekaclinical</groupId>
         <artifactId>eurekaclinical-parent-standard-deps</artifactId>
-        <version>2</version>
+        <version>4-Alpha-4-SNAPSHOT</version>
     </parent>
 
-    <url>https://github.com/eurekaclinical/eurekaclinical-user-agreement-common.git</url>
+    <url>https://github.com/arpost/eurekaclinical-user-agreement-common.git</url>
 
     <scm>
-        <connection>scm:git:https://github.com/eurekaclinical/eurekaclinical-user-agreement-common.git</connection>
-        <developerConnection>scm:git:https://github.com/eurekaclinical/eurekaclinical-user-agreement-common.git</developerConnection>
-        <url>https://github.com/eurekaclinical/eurekaclinical-user-agreement-common.git</url>
+        <connection>scm:git:https://github.com/arpost/eurekaclinical-user-agreement-common.git</connection>
+        <developerConnection>scm:git:https://github.com/arpost/eurekaclinical-user-agreement-common.git</developerConnection>
+        <url>https://github.com/arpost/eurekaclinical-user-agreement-common.git</url>
         <tag>HEAD</tag>
     </scm>
 	
     <issueManagement>
         <system>GitHub</system>
-        <url>https://github.com/eurekaclinical/eurekaclinical-user-agreement-common/issues</url>
+        <url>https://github.com/arpost/eurekaclinical-user-agreement-common/issues</url>
     </issueManagement>
     
     <properties>
-        <ec-user-agreement-client-version>2.0</ec-user-agreement-client-version>
+        <ec-user-agreement-client-version>2.3-Beta-2-SNAPSHOT</ec-user-agreement-client-version>
     </properties>
 	
     <build>
